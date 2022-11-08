@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">USDRate</string>
+    <string name="hand_rate_edit">ручной курс</string>
+    <string name="hand_rate_button_text">Установить</string>
+    <string name="rate_date">Дата</string>
+    <string name="rate_num">Курс</string>
+</resources>
